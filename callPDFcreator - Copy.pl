@@ -2,6 +2,7 @@
 $input_file=$ARGV[0];
 $output_file=$ARGV[1];
 
+#define time variables
 $timerstart="C:\\ptc\\custom_workers\\AutoCADWorker\\temp\\timerstart";
 $timerstop="C:\\ptc\\custom_workers\\AutoCADWorker\\temp\\timerstop";
 $timerstopped="C:\\ptc\\custom_workers\\AutoCADWorker\\temp\\timerstopped";
